@@ -15,7 +15,7 @@
   font-family: 'Montserrat', sans-serif;
   z-index: 1;
   text-align: center;
-  color:#FFF;
+  color:#F6E3CE;
   position: absolute;
   top: 50%;
   left: 50%;
@@ -29,7 +29,7 @@
     color: #F6E3CE;
     @media only screen and (min-width:$cut){
       margin: 0;
-      font-size: 76px;
+      font-size: 40px;
     }
   }
   .site-description {
