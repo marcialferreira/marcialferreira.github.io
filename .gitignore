@@ -1,4 +1,6 @@
+.sass-cache/
+.jekyll-metadata
+node_modules
+.vscode
+_site/
 .Rproj.user
-.Rhistory
-.RData
-.Ruserdata
